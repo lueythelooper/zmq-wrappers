@@ -15,6 +15,8 @@ private:
 
 public:
     /**
+    * @brief Start the thread
+    * 
     * Start the thread instance of this class. First stops any running instances
     */
     void start_thread();
